@@ -1,4 +1,4 @@
-name: Build and Deploy to AKS
+name: Testing AKS acces to Keyvault Secrets
 on:
   push:
     branches:
